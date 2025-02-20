@@ -6,6 +6,8 @@ layout: homepage
 
 I am a Ph.D. candidate at Stony Brook University, supervised by [Dr. Ting Wang](https://alps-lab.github.io/).
 
+<span style="color: red;">*I'm currently seeking a 2025 summer internship and am open to topics related to LLM. Please feel free to contact me!*</span>
+
 ## Research Interests
 
 My expertise is in ensuring the Safety and Trustworthiness of Large Language Models (LLMs). I work on identifying Security Challenges and developing Defensive Strategies to protect these models from adversarial threats. My recent work includes:
@@ -14,12 +16,6 @@ My expertise is in ensuring the Safety and Trustworthiness of Large Language Mod
   
 In addition, I possess extensive expertise and a strong interest in **post-training, prompt engineering, inference optimization, LLM agents, and ensuring LLM alignment.**
 
-## Collaborators and Previous Advisors 
-Teammates at ALPS-Labs: [Ren Pang (Amazon)](https://ain-soph.github.io/), [Zhaohan Xi (Binghamton University)](https://zhaohan-xi.github.io/), [Changjiang Li](https://meet-cjli.github.io/), [Tanqiu Jiang](https://tanqiujiang.github.io/), [Zian Wang](https://zianwang.com/), [Yuhui Wang](https://scholar.google.com/citations?user=eJgbw-oAAAAJ&hl=en), [Rongyi Zhu](https://scholar.google.com/citations?user=MA1MmFAAAAAJ&hl=zh-CN)
-
-Previous Collaborators: [Bochuan Cao (PSU)](https://aaaaaasuka.github.io/), [Qihua Zhou (SZU)](https://qihuazhou.github.io/), [Yanjing Ren (CUHK)](https://scholar.google.com/citations?user=DVuEDJkAAAAJ&hl=zh-CN), Guoli Wei (USTC), Zicong Hong (HKUST), Jun Pan (HKPolyU)
-
-Previous Advisors: [Jingwei Li (UESTC)](https://jingwei87.github.io/), [Song Guo (HKUST)](https://cse.hkust.edu.hk/~songguo/), [Songze Li (SEU, HKUST)](https://songzli.github.io/index.html)
 
 <!-- ## News
 
@@ -45,6 +41,13 @@ Previous Advisors: [Jingwei Li (UESTC)](https://jingwei87.github.io/), [Song Guo
 <!-- {% include_relative _includes/teaching.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->
+
+## Collaborators and Previous Advisors 
+Teammates at ALPS-Labs: [Ren Pang (Amazon)](https://ain-soph.github.io/), [Zhaohan Xi (Binghamton University)](https://zhaohan-xi.github.io/), [Changjiang Li](https://meet-cjli.github.io/), [Tanqiu Jiang](https://tanqiujiang.github.io/), [Zian Wang](https://zianwang.com/), [Yuhui Wang](https://scholar.google.com/citations?user=eJgbw-oAAAAJ&hl=en), [Rongyi Zhu](https://scholar.google.com/citations?user=MA1MmFAAAAAJ&hl=zh-CN)
+
+Previous Collaborators: [Bochuan Cao (PSU)](https://aaaaaasuka.github.io/), [Qihua Zhou (SZU)](https://qihuazhou.github.io/), [Yanjing Ren (CUHK)](https://scholar.google.com/citations?user=DVuEDJkAAAAJ&hl=zh-CN), Guoli Wei (USTC), Zicong Hong (HKUST), Jun Pan (HKPolyU)
+
+Previous Advisors: [Jingwei Li (UESTC)](https://jingwei87.github.io/), [Song Guo (HKUST)](https://cse.hkust.edu.hk/~songguo/), [Songze Li (SEU, HKUST)](https://songzli.github.io/index.html)
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=4dbbd6&w=300&t=n&d=yQogTRP1sCUUtzWxfRSFqiPvHgpk71XyO6nBiXkJj6Y&co=ffffff&cmo=e95f42&cmn=05a087&ct=000000'></script>
