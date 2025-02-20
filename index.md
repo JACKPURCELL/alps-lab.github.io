@@ -4,13 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am Associate Professor and Empire Innovation Scholar in the Department of Computer Science at Stony Brook University. I conduct research at the intersection of machine learning, privacy and security, and aim to develop safe and trustworthy artificial intelligence (AI) technologies. My recent work focuses on improving AI along three major thrusts:
+I am a Ph.D. candidate at Stony Brook University, supervised by [Dr. Ting Wang](https://alps-lab.github.io/).
 
-* Security Assurance -- resilient against malicious manipulations
-* Privacy Preservation -- respectful for individual privacy
-* Decision-Making Transparency -- interpretable to human perception
+## Research Interests
 
-Before joining Stony Brook, I was Associate Professor in the College of IST at Penn State. I finished my Ph.D. at Georgia Tech and my undergrad study at Zhejiang University.
+My expertise is in ensuring the Safety and Trustworthiness of Large Language Models (LLMs). I work on identifying Security Challenges and developing Defensive Strategies to protect these models from adversarial threats. My recent work includes:
+* Security Challenges -- Investigate vulnerabilities in **LLM watermarking** and **GraphRAG**; use long CoT to **jailbreak reasoning model** and propose advanced methods to address these weaknesses.
+* Defensive Strategies -- Develop methods to **defend against backdoor attacks* (self-defense mechanisms in agent)** and **jailbreaking (Data curation when finetuning and KV eviction when inference)**.
+In addition, I possess extensive expertise and a strong interest in **post-training, prompt engineering, inference optimization, LLM agents, and ensuring LLM alignment.**
+
+
 
 <!-- ## News
 
@@ -21,21 +24,18 @@ Before joining Stony Brook, I was Associate Professor in the College of IST at P
 - <label class="fund_label_style">Grant</label> NSF award to support our research on <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2212323">the Security Risks of AutoML</a>. Thank you, NSF!
 - <label class="info_label_style">Award</label> [Android App Analysis](https://dl.acm.org/doi/10.1145/3533767.3534410) received the ACM SIGSOFT Distinguished Paper award! -->
 
-## Team
 
-I lead the <ins>A</ins>lgorithmic <ins>L</ins>earning, <ins>P</ins>rivacy, and <ins>S</ins>ecurity (ALPS) lab, where I am privileged to work alongside a team of exceptional talents, both in the past and present:
+<!-- ## News
 
-**Current Members --** [Changjiang Li](https://ist.psu.edu/directory/cbl5583), [Jiacheng Liang](https://ist.psu.edu/directory/jkl6486), [Tanqiu Jiang](https://tanqiujiang.github.io/), [Yuhui Wang](https://scholar.google.com/citations?user=eJgbw-oAAAAJ&hl=en), [Rongyi Zhu](https://scholar.google.com/citations?user=MA1MmFAAAAAJ&hl=zh-CN), [Ziyi Yin](https://ist.psu.edu/directory/zmy5171) (co-supervised with Fenglong Ma), [Zian Wang](https://zianwang.com/) 
+- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
+- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
-
-**Alumni --** [Ren Pang](https://ain-soph.github.io/) (>> Amazon), [Tianyu Du](https://tydusky.github.io/) (>> Zhejiang University), [Zhaohan Xi](https://zhaohan-xi.github.io/) (>> Binghamton University), [Xinyang Zhang](https://www.linkedin.com/in/xinyang-zhang-4580b8b7) (>> Amazon), [Tinghao Xie](https://tinghaoxie.com/) (>> Princeton), [Zheng Zhang](https://secantzhang.github.io) (>> Northwestern), [Ningfei Wang](https://www.linkedin.com/in/ningfei-wang-569a91156) (>> Meta), [Yujie Ji](https://www.linkedin.com/in/yujie-ji-27484793) (>> Amazon), [Sam Nguyen](https://www.linkedin.com/in/chanhnp) (>> Google), [Yifan Huang](https://www.linkedin.com/in/yifan-huang-303928156) (>> Bloomberg)
-
-
-**Join Us! --**  We are ALWAYS looking for motivated and bright (under)grad students and postdocs. If you know how to build/hack AI systems, we should talk! Please email me your resume and set up a time to discuss your potential fit to our team.
 
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/teaching.md %}
+<!-- {% include_relative _includes/teaching.md %} -->
 
 <!-- {% include_relative _includes/services.md %} -->

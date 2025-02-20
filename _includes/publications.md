@@ -55,19 +55,22 @@
 </div> -->
 
 
-* [Watch the Watchers! On the Security Risks of Robustness-Enhancing Diffusion Models](https://arxiv.org/pdf/2406.09669) <br>
-Changjiang Li, Ren Pang, Bochuan Cao, Jinghui Chen, Fenglong Ma, Shouling Ji, Ting Wang <br>
-USENIX Security Symposium (USENIX'25)
+* [Model extraction attacks revisited](https://arxiv.org/pdf/2312.05386)  
+  **Jiacheng Liang**, Ren Pang, Changjiang Li, Ting Wang  
+  Asia Conference on Computer and Communications Security (Asia CCS'24)
+  
+* [GraphRAG under Fire](https://arxiv.org/pdf/2501.14050)  
+  **Jiacheng Liang**, Yuhui Wang, Changjiang Li, Rongyi Zhu, Tanqiu Jiang, Neil Gong, Ting Wang
 
-* [RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction](https://openreview.net/pdf?id=L5godAOC2z) <br>
-Tanqiu Jiang, Zian Wang, Jiacheng Liang, Changjiang Li, Yuhui Wang, Ting Wang <br>
-International Conference on Learning Representations (ICLR'25)
+* [WaterPark: A Robustness Assessment of Language Model Watermarking](https://arxiv.org/pdf/2411.13425)  
+  **Jiacheng Liang**, Zian Wang, Lauren Hong, Shouling Ji, Ting Wang
 
-* [RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models](https://openreview.net/pdf?id=txZVQRc2ab) <br>
-Tanqiu Jiang, Changjiang Li, Fenglong Ma, Ting Wang <br>
-International Conference on Learning Representations (ICLR'25)
+* [RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction](https://arxiv.org/pdf/2410.19937)  
+  Tanqiu Jiang, Zian Wang, **Jiacheng Liang**, Changjiang Li, Yuhui Wang, Ting Wang  
+  International Conference on Learning Representations (ICLR'25)
 
-* [SongBsAb: A Dual Prevention Approach against Singing Voice Conversion based Illegal Song Covers](https://arxiv.org/pdf/2401.17133) <br>
-Guangke Chen, Yedi Zhang, Fu Song, Ting Wang, Xiaoning Du, Yang Liu <br>
-Network and Distributed System Security Symposium (NDSS'25)
+* [Data to Defense: The Role of Curation in Customizing LLMs Against Jailbreaking Attacks](https://arxiv.org/pdf/2410.02220)  
+  Xiaoqun Liu*, **Jiacheng Liang\***, Luoxi Tang, Muchao Ye, Weicheng Ma, Zhaohan Xi
+
+
 
