@@ -32,7 +32,7 @@ layout: homepage
 
 #### 2024
 
-* [Model extraction attacks revisited](https://arxiv.org/pdf/2312.05386)  
+* [Model Extraction Attacks Revisited](https://arxiv.org/pdf/2312.05386)  
   **Jiacheng Liang**, Ren Pang, Changjiang Li, Ting Wang  
   Asia Conference on Computer and Communications Security (Asia CCS'24)
 
@@ -65,5 +65,5 @@ layout: homepage
 * [Omnilytics: A blockchain-based secure data market for decentralized machine learning](https://arxiv.org/pdf/2107.05252)  
   **Jiacheng Liang**, Songze Li, Bochuan Cao, Wensi Jiang, Chaoyang He  
   ICML 2021 Workshop
-  
+
 <hr>
