@@ -47,6 +47,6 @@ In addition, I possess extensive expertise and a strong interest in **post-train
     <!-- <p>This is the content on the left side.</p> -->
   </div>
   <div style="width: 33%; max-width: 400px; height: 300px; overflow: hidden;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=yQogTRP1sCUUtzWxfRSFqiPvHgpk71XyO6nBiXkJj6Y&cl=ffffff&w=a"></script>
+    <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=4dbbd6&w=300&t=n&d=yQogTRP1sCUUtzWxfRSFqiPvHgpk71XyO6nBiXkJj6Y&co=ffffff&cmo=e95f42&cmn=05a087&ct=000000"></script>
   </div>
 </div>
