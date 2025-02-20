@@ -11,6 +11,7 @@ I am a Ph.D. candidate at Stony Brook University, supervised by [Dr. Ting Wang](
 My expertise is in ensuring the Safety and Trustworthiness of Large Language Models (LLMs). I work on identifying Security Challenges and developing Defensive Strategies to protect these models from adversarial threats. My recent work includes:
 * Security Challenges -- Investigate vulnerabilities in **LLM watermarking** and **GraphRAG**; use long CoT to **jailbreak reasoning model** and propose advanced methods to address these weaknesses.
 * Defensive Strategies -- Develop methods to **defend against backdoor attacks* (self-defense mechanisms in agent)** and **jailbreaking (Data curation when finetuning and KV eviction when inference)**.
+  
 In addition, I possess extensive expertise and a strong interest in **post-training, prompt engineering, inference optimization, LLM agents, and ensuring LLM alignment.**
 
 
