@@ -6,7 +6,6 @@ layout: homepage
 
 I am a Ph.D. candidate at Stony Brook University, supervised by [Dr. Ting Wang](https://alps-lab.github.io/).
 
-<span style="color: red;">*I'm currently seeking a 2025 summer internship and am open to topics related to LLM. Please feel free to contact me! Check my [CV](assets/files/cv.pdf).*</span>
 
 ## Research Interests
 
