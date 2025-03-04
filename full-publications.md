@@ -14,8 +14,11 @@ layout: homepage
   **Jiacheng Liang**, Zian Wang, Lauren Hong, Shouling Ji, Ting Wang
 
 * [Data to Defense: The Role of Curation in Customizing LLMs Against Jailbreaking Attacks](https://arxiv.org/pdf/2410.02220)  
-  Xiaoqun Liu*, **Jiacheng Liang***, Luoxi Tang, Muchao Ye, Weicheng Ma, Zhaohan Xi
+  Xiaoqun Liu*, **Jiacheng Liang**, Luoxi Tang, Muchao Ye, Weicheng Ma, Zhaohan Xi
 
+* [Cyber Defense Reinvented: Large Language Models as Threat Intelligence Copilots](https://arxiv.org/abs/2502.20791)  
+Xiaoqun Liu*, **Jiacheng Liang**, Qiben Yan,  Muchao Ye, Jinyuan Jia, Zhaohan Xi
+  
 * [CopyrightMeter: Revisiting Copyright Protection in Text-to-image Models](https://arxiv.org/pdf/2411.13144)  
   Naen Xu, Changjiang Li, Tianyu Du, Minxi Li, Wenjie Luo, **Jiacheng Liang**, Yuyuan Li, Xuhong Zhang, Meng Han, Jianwei Yin, Ting Wang
 
